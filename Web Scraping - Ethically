@@ -2,7 +2,7 @@ Ethical Web Scraping Guidelines to Follow
 
 RESPECT WEBSITE OWNERS AND CREATORS!
 •	Do NOT take credit for their work
-•	Do NOT scrape websites that does not allow scraping
+•	Do NOT scrape websites that do not allow scraping
 o	Check Terms of Use
 o	Look at robots.txt file for parts of website that allow scraping
 •	APIs are more preferable, check for available APIs before scraping
